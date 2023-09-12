@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Java Web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Web_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Java-Web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../weixx/WeChat Files/wxid_zydkaxsxmrv522/FileStorage/File/2023-05/mysql-connector-java-8.0.28.jar" />
+          <element id="library" level="project" name="jstl-1.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Java-Web/web/Web" />
+    </root>
+  </artifact>
+</component>
