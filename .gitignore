@@ -24,6 +24,7 @@ hs_err_pid*
 
 log
 target
+*.iml
 
 .idea
 out
