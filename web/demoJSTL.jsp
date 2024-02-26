@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="demo.entity.User" %>
+<%@ page import="com.zhy.center.model.User" %>
 <%@ page import="java.util.ArrayList" %><%--
   Created by IntelliJ IDEA.
   User: Lenovo

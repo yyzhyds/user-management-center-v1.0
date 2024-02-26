@@ -8,7 +8,7 @@
         <!--自定义Servlet的名字，通常与类名一致-->
         <servlet-name>/MyServlet</servlet-name>
         <!--类的全限定名(包名加类名)-->
-        <servlet-class>com.java01.MyServlet</servlet-class>
+        <servlet-class>com.zhy.center.demo.java01.MyServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -20,7 +20,7 @@
 
     <servlet>
         <servlet-name>/MyGenericServlet</servlet-name>
-        <servlet-class>com.java01.MyGenericServlet</servlet-class>
+        <servlet-class>com.zhy.center.demo.java01.MyGenericServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -30,7 +30,7 @@
     
 <!--    <servlet>-->
 <!--        <servlet-name>/MyHttp</servlet-name>-->
-<!--        <servlet-class>com.java01.MyHttp</servlet-class>-->
+<!--        <servlet-class>com.zhy.center.demo.java01.MyHttp</servlet-class>-->
 <!--    </servlet>-->
 <!--    -->
 <!--    <servlet-mapping>-->
